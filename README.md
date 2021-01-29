@@ -14,7 +14,7 @@
  
     * [fastText讲解](https://www.jiqizhixin.com/articles/2018-06-05-3) 
     
-      fastText 就是使用了ngram思想，将同一个词语分解成等宽的几个substring，比如apple=[app,ppl,ple]。然后对每个substring分别计算embedding(类似word2vec)，最终词语的embedding是所有substring embedding vector之和。
+      fastText 就是使用了subword n-gram思想，将同一个词语分解成等宽的几个substring，比如apple=[app,ppl,ple]。然后对每个substring分别计算embedding(类似word2vec)，最终词语的embedding是所有substring embedding vector之和。
       
       一个优势是同一个substring可能出现在不同word中（词根词缀），从而可以找出词与词之间的联系，而且有助于低频词甚至是未出现词语的表达。
       
