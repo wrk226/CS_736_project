@@ -6,7 +6,7 @@
  
     * [非常全面的中文版ML+DL+NLP知识梳理](https://github.com/NLP-LOVE/ML-NLP)
     
-    * [斯坦福cs224N,NLP基础课](http://web.stanford.edu/class/cs224n/)
+    * [斯坦福cs224N，NLP基础课](http://web.stanford.edu/class/cs224n/)
  
 * 一些有用的链接
 
