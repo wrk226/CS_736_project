@@ -6,9 +6,9 @@
  
     * [非常全面的中文版ML+DL+NLP知识梳理](https://github.com/NLP-LOVE/ML-NLP)
     
-    * [斯坦福cs224N的slide和note，NLP基础课](http://web.stanford.edu/class/cs224n/)
+    * [cs224N的slide和note，NLP基础课](http://web.stanford.edu/class/cs224n/)
     
-    * [斯坦福cs224N的课程视频](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+    * [cs224N的课程视频](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
     
  
 * 一些有用的链接
