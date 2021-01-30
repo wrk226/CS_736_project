@@ -26,7 +26,7 @@
     
     * EM算法/期望极大算法(Expectation Maximization algorithm)
       <details>
-      <summary>什么是似然函数</summary>
+      <summary>什么是似然函数？</summary>
          假设我们现在有一个硬币，随机投掷一次硬币出现正面的概率为p。
          现在我们连续投掷了两次硬币，结果硬币都是正面。
          似然函数就是：p=0.1, 0.2, 0.3...的概率。
@@ -34,7 +34,7 @@
          简而言之，似然性，是用于在已知某些观测所得到的结果时，对有关事物之性质的参数进行估值。
       </details>
       <details>
-      <summary>什么是MLE/最大似然估计(maximum likelihood estimation)</summary>
+      <summary>什么是MLE/最大似然估计？(maximum likelihood estimation)</summary>
          还是上面的例子，随机投掷一次硬币出现正面的概率为p，现在连续抛两次硬币都是正面，那么当p取什么值的时候似然性最大呢？
          显而易见，p=1的概率最大，也即当p=1时似然值最大。
          而这个p=1就是我们的最大似然估计。
@@ -44,7 +44,7 @@
       </details>
             </details>
       <details>
-      <summary>什么是EM算法</summary>
+      <summary>什么是EM算法？</summary>
          EM算法实质上就是当似然函数难以找出最大值（通常是因为难以求导）的情况下采取的迭代计算方式。
          一般来说似然函数难以求导的原因是因为里面包含隐藏变量。
          举个例子，投掷硬币，现在有硬币A,B,C,每次投掷的时候我都会先抛一次A（A的结果不作记录），如果A是正面的话就用B投掷，如果A是反面的话就用C投掷。用B或C的结果作为这一次抛掷的结果。这时候A的正反面概率就是隐藏变量，因为我们无法直接观测到A是正面还是反面。
