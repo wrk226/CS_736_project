@@ -23,8 +23,8 @@
       
       fastText另一个优势是使用了多层softmax用来加速。其实就是把本来的1对N的softmax变成了1对2对4对8...的二叉树形式，每个node就相当于一次逻辑回归，也即sigmoid。
       </details>
-    
-    * EM算法/期望极大算法(Expectation Maximization algorithm)
+
+    * [EM算法/期望极大算法(Expectation Maximization algorithm)](https://zhuanlan.zhihu.com/p/78311644) 
       <details>
       <summary>什么是似然函数？</summary>
          假设我们现在有一个硬币，随机投掷一次硬币出现正面的概率为p。
