@@ -63,7 +63,7 @@
 
       
     
-    * 隐马尔可夫模型
+    * HMM/隐马尔可夫模型（Hidden Markov model）
     
     * 条件随机场
 
