@@ -6,6 +6,8 @@
  
     * [非常全面的中文版ML+DL+NLP知识梳理](https://github.com/NLP-LOVE/ML-NLP)
     
+    * [NLP入门](https://github.com/NLP-LOVE/Introduction-NLP) 
+    
     * [cs224N的slide和note，NLP基础课](http://web.stanford.edu/class/cs224n/)
     
     * [cs224N的课程视频](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
@@ -20,8 +22,8 @@
       
       fastText另一个优势是使用了多层softmax用来加速。其实就是把本来的1对N的softmax变成了1对2对4对8...的二叉树形式，每个node就相当于一次逻辑回归，也即sigmoid。
       
+
 * 一些有用的链接
 
     * [要用的数据和leaderboard](https://rajpurkar.github.io/SQuAD-explorer/)
-    
-* 一些论文的个人理解
+
