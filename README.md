@@ -26,7 +26,7 @@
 
     * [EM算法/期望极大算法(Expectation Maximization algorithm)](https://zhuanlan.zhihu.com/p/78311644) 
       <details>
-      <summary>什么是似然函数？</summary>
+      <summary>什么是似然函数？（Likelihood function）</summary>
          假设我们现在有一个硬币，随机投掷一次硬币出现正面的概率为p。
    
          现在我们连续投掷了两次硬币，结果硬币都是正面。       
