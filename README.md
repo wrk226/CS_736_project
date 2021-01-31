@@ -1,6 +1,6 @@
 # CS_736_project
 
-* NLP基础知识：
+* NLP基础知识汇总：
 
     * [一些基础模型的视频讲解](https://www.youtube.com/c/CodeEmporium/videos)
  
@@ -8,10 +8,14 @@
     
     * [NLP入门](https://github.com/NLP-LOVE/Introduction-NLP) 
     
-    * [cs224N的slide和note，NLP基础课](http://web.stanford.edu/class/cs224n/)
+    * [cs224N的slide和note](http://web.stanford.edu/class/cs224n/)
     
-    * [cs224N的课程视频](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+    * cs224N课程视频[[原版]](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)[[中文字幕1]](https://www.bilibili.com/video/BV1pt411h7aT)[[中文字幕2]](https://www.bilibili.com/video/BV1s4411N7fC)
     
+    * [某NLP大佬的cs224N的课程笔记](https://www.hankcs.com/?s=cs224n)
+
+* NLP相关算法：
+
     * [八种常用的embedding方式](https://easyai.tech/blog/nlp-%E9%A2%86%E5%9F%9F%E9%87%8C%E7%9A%848-%E7%A7%8D%E6%96%87%E6%9C%AC%E8%A1%A8%E7%A4%BA%E6%96%B9%E5%BC%8F%E5%8F%8A%E4%BC%98%E7%BC%BA%E7%82%B9/)
  
     * [fastText讲解](https://www.jiqizhixin.com/articles/2018-06-05-3) 
