@@ -96,8 +96,9 @@
       另一类是t时刻自己的特征。例:如果今天我心情不好就肯定不会出门购物  
       这里的特征都是非黑即白的，而且特征数量是不固定的。像HMM中，每个行动与心情都有一个对应的状态转移概率，但是CRF中就不是这样，可以一对多也可以多对一。  
       </details>
-    
-
+      
+    * [结构化感知机与普通感知机的区别](https://www.zhihu.com/question/51872633) 
+   
 * 一些有用的链接
 
     * [要用的数据和leaderboard](https://rajpurkar.github.io/SQuAD-explorer/)
