@@ -8,11 +8,11 @@
     
     * [NLP入门](https://github.com/NLP-LOVE/Introduction-NLP) 
     
-    * [cs224N的slide和note](http://web.stanford.edu/class/cs224n/)
+    * 2019版CS224N[[课件]](http://web.stanford.edu/class/cs224n/)[[课程视频(中文字幕)]](https://www.bilibili.com/video/BV1s4411N7fC)
     
-    * cs224N课程视频[[原版]](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)[[中文字幕1]](https://www.bilibili.com/video/BV1pt411h7aT)[[中文字幕2]](https://www.bilibili.com/video/BV1s4411N7fC)
+    * 2017版CS224N[[课件]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/syllabus.html)[[课程视频(中文字幕)]](https://www.bilibili.com/video/BV1pt411h7aT)
     
-    * [某NLP大佬的cs224N的课程笔记](https://www.hankcs.com/?s=cs224n)
+    * [某NLP大佬的17版CS224N的课程笔记](https://www.hankcs.com/?s=cs224n)
 
 * NLP相关算法：
 
