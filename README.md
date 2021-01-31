@@ -12,6 +12,12 @@
     
     * 2017版CS224N[[课件]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/syllabus.html)[[课程视频(中文字幕)]](https://www.bilibili.com/video/BV1pt411h7aT)
     
+      <details>
+      <summary>19和17版的区别</summary>
+      17版课程作业用的是tensorflow，19版用的是pytorch   
+      19版里多了character models, transformers,  multitask learn等内容
+      </details>
+    
     * [某NLP大佬的17版CS224N的课程笔记](https://www.hankcs.com/?s=cs224n)
 
 * NLP相关算法：
