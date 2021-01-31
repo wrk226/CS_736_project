@@ -15,6 +15,7 @@
       <details>
       <summary>19和17版的区别</summary>
       17版课程作业用的是tensorflow，19版用的是pytorch   
+   
       19版里多了character models, transformers,  multitask learn等内容
       </details>
     
