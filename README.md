@@ -128,4 +128,13 @@
 * 一些有用的链接
 
     * [要用的数据和leaderboard](https://rajpurkar.github.io/SQuAD-explorer/)
+    
+* 论文阅读
+    * 关系抽取
+      <details>
+      <summary>综述</summary>
+      [More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction](https://arxiv.org/abs/2004.03186)
+      
+      
+      </details>
 
