@@ -174,4 +174,15 @@
          2. 语义编码：通过CNN,RNN,LM,Transformer获得语义信息  
          3. 标签解码：通过MLP,CRF,RNN,PN输出分类结果  
          </details>
-
+    * 文本分类-TC(Text Classification)
+      * [综述](https://arxiv.org/abs/2004.03705v1) [翻译版](https://blog.csdn.net/qq_38331611/article/details/106995742)
+         <details>
+         <summary>笔记</summary>
+         常见分类任务：情感分类，新闻分类，话题分类，QA问答，自然语言推理(NLI)  
+         QA问答：抽取式：基于问题对句子做分类，选择个别句子作为答案。生成式：不属于TC
+         自然语言推理：一段文字是否由另外一段文字推理得出的:Y/N  
+         常见方法：feed-forward,RNN,CNN...
+         
+         
+         
+         </details>
