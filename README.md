@@ -124,17 +124,50 @@
       所以代入公式,P(Y|X)=P(出货|土豪，肝帝)=50%\*10%/6.9%=0.05/0.069=72.46%>50%,因此朴素贝叶斯判定土豪肝帝大概率会出货。  
       
       </details>
+      
+    * LDA
+    
+    * 最大熵模型
+    
+    
    
 * 一些有用的链接
 
     * [要用的数据和leaderboard](https://rajpurkar.github.io/SQuAD-explorer/)
     
 * 论文阅读
-    * 关系抽取
-      <details>
-      <summary>综述</summary>
-      [More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction](https://arxiv.org/abs/2004.03186)
-      
-      
-      </details>
+    * 关系抽取-RE(Relation Extraction)
+      * [综述](https://arxiv.org/abs/2004.03186) [翻译版](https://blog.csdn.net/weixin_42691585/article/details/105561709)
+         <details>
+         <summary>笔记</summary>
+         关系抽取是指从文本中抽取关系事实.现如今由于网络文本爆发式增长，所以需要构建更有效的模型。  
+   
+         优化方向具体分为三类:  
+         1. 如何利用更多的数据    
+            远程监督(即自动标记),但是会出现很多noise，所以需要使用种种方式来去噪  
+         2. 当样本不足时,如何更有效的利用现有的数据  
+            few shot：使用优质资源训练出更robust的模型然后套用到新任务上：  
+               1.metric learning：度量现有数据和训练示例的距离，然后对查询进行分类  
+               2.meta-learning:元学习  
+         3. 如何处理更复杂的上下文  
+            1.提取句子内关系  
+            2.构建句子间实体图  
+         4. 如何面向更多的开放域(现实中不断有新的关系生成)  
+         关系抽取流程:  
+         1. 一个命名体识别器,用于从文本中识别命名实体.  
+         2. 一个实体连接器,用于将实体连接到现有知识图谱  
+         3. 一个关系分类器,用于确定给定上下文的实体之间的关系(最难,因为需要理解上下文)  
+         </details>
+    * 命名实体识别-NER(Named Entity Recognition)
+      * [综述](https://arxiv.org/abs/1812.09449) [翻译版](http://pelhans.com/2019/09/23/kg_paper-note4/#%E6%8C%87%E9%92%88%E7%BD%91%E7%BB%9C)
+         <details>
+         <summary>笔记</summary>
+         命名实体识别是用来识别命名实体的文本范围，并将之分类为预定义的类别，例如人，位置，组织等。  
+   
+         一般做命名实体识别有三种方式：  
+         1. 基于手工制定的规则：麻烦，适合数据量特别小的情况
+         2. 无监督方式：不准确
+         3. 基于特征的机器学习：需要精心设计特征+HMM,CRF,DT...
+         4. 基于深度学习：可以端到端
+         </details>
 
