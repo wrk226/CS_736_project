@@ -2,6 +2,8 @@
 
 * NLP基础知识汇总：
 
+    * [【必看！】SQuAD官方指南以及相关模型解析](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/project/default-final-project-handout.pdf)
+
     * [一些基础模型的视频讲解](https://www.youtube.com/c/CodeEmporium/videos)
  
     * [非常全面的中文版ML+DL+NLP知识梳理](https://github.com/NLP-LOVE/ML-NLP)
