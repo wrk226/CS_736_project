@@ -24,6 +24,8 @@
       </details>
     
     * [某NLP大佬的17版CS224N的课程笔记](https://www.hankcs.com/?s=cs224n)
+    
+    * [Andrew Ng 深度学习入门（中文字幕）](https://www.bilibili.com/video/BV1gb411j7Bs)
 
 * NLP相关算法：
 
