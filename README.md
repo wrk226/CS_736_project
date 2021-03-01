@@ -2,9 +2,9 @@
 
 * NLP基础知识汇总：
 
-    * [【必看！】SQuAD官方指南以及相关模型解析](http://web.stanford.edu/class/cs224n/project/default-final-project-handout-squad-track.pdf)
+    * [【推荐！】SQuAD官方指南以及相关模型解析](http://web.stanford.edu/class/cs224n/project/default-final-project-handout-squad-track.pdf)
     
-    * [【推荐！】SQuAD任务变种解析](http://web.stanford.edu/class/cs224n/project/default-final-project-handout-robustqa-track.pdf)
+    * [【必看！】SQuAD任务变种解析](http://web.stanford.edu/class/cs224n/project/default-final-project-handout-robustqa-track.pdf)
 
     * [一些基础模型的视频讲解](https://www.youtube.com/c/CodeEmporium/videos)
  
