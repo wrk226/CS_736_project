@@ -6,6 +6,8 @@
     
     * [【必看！】SQuAD任务变种解析](http://web.stanford.edu/class/cs224n/project/default-final-project-handout-robustqa-track.pdf)
 
+    * [DL+ML全中文讲解(李宏毅2020)](https://www.bilibili.com/video/BV1JE411g7XF?p=24)
+
     * [一些基础模型的视频讲解](https://www.youtube.com/c/CodeEmporium/videos)
  
     * [非常全面的中文版ML+DL+NLP知识梳理](https://github.com/NLP-LOVE/ML-NLP)
