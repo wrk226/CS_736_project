@@ -8,6 +8,8 @@
 
     * DL+ML全中文讲解(李宏毅2020)[[课程主页]](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) [[B站链接]](https://www.bilibili.com/video/BV1JE411g7XF)
 
+    * NLP全中文讲解(李宏毅2020)[[B站链接]](https://www.bilibili.com/video/BV1EE411g7Uk)
+
     * [一些基础模型的视频讲解](https://www.youtube.com/c/CodeEmporium/videos)
  
     * [非常全面的中文版ML+DL+NLP知识梳理](https://github.com/NLP-LOVE/ML-NLP)
